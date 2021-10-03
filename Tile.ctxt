@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Tile
+comment0.text=\n\ Write\ a\ description\ of\ class\ Player\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=int\ getIsPlayed()
+comment2.params=isPlayed
+comment2.target=void\ setIsPlayed(int)
+comment3.params=
+comment3.target=int\ getNotPlayScore()
+comment4.params=notPlayScore
+comment4.target=void\ setNotPlayScore(int)
+comment5.params=
+comment5.target=int\ getValue()
+comment6.params=value
+comment6.target=void\ setValue(int)
+comment7.params=
+comment7.target=int\ getScore()
+comment8.params=score
+comment8.target=void\ setScore(int)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10
